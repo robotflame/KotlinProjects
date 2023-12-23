@@ -34,4 +34,3 @@ Second screen add item dialog: <br/>
   This dialog allows user to create an item.
 
 <img width="300" alt="firestScreen" src="./screenshots/add_item.jpg">
-https://github.com/UiA-IKT-205/saidMagomedLetsjijevitsjEvmurzajev
