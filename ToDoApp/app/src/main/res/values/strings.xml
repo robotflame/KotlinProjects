@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ikt205_todoapp</string>
+    <string name="create_list_button">Button for creating list</string>
+    <string name="create_item_button">Button for creating list</string>
+    <string name="statusStatic">Status:</string>
+    <string name="delete_button">Delete button</string>
+
+
+</resources>

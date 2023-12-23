@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634652073604",
+    "project_id": "projecttodolist-afb39",
+    "storage_bucket": "projecttodolist-afb39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634652073604:android:730e34172a574a06b0acd1",
+        "android_client_info": {
+          "package_name": "com.example.ikt205_todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634652073604-a3he09jhuer2dg4ah73tf8ok72srga86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDarojLEEG6siWv3DQJHT21jKFaM_Q6FII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634652073604-a3he09jhuer2dg4ah73tf8ok72srga86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
